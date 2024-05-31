@@ -1,0 +1,25 @@
+{
+    "name": "Katie Combs",
+    "age": 67,
+    "address": {
+        "street": "Pamela Pike",
+        "city": "Lake Alexanderbury",
+        "state": "Alabama",
+        "zip": "06760"
+    },
+    "contact": {
+        "phone": "(847)847-9712x705",
+        "servicePhone": "800502805"
+    },
+    "birthday": "1958-26-10",
+    "ip": "53.24.208.222",
+    "foo": "bar",
+    "profile": {
+        "about": "His leave there miss simple Mr fact political. Reveal officer me quite wish out car.\nAffect treatment production. Still standard build before fear color. Same what example car great fire.",
+        "bio": "Field behind since buy ahead finish. Painting up try before if cut. Economic half language owner now."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
