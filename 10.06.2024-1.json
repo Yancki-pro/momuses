@@ -1,0 +1,25 @@
+{
+    "name": "Emily Williams",
+    "age": 17,
+    "address": {
+        "street": "Rice Cliffs",
+        "city": "Yangshire",
+        "state": "Montana",
+        "zip": "89711"
+    },
+    "contact": {
+        "phone": "235-856-8020",
+        "servicePhone": "800533764"
+    },
+    "birthday": "2008-30-09",
+    "ip": "192.68.150.96",
+    "foo": "bar",
+    "profile": {
+        "about": "General group reveal interesting music. Each vote out edge who none thank reduce.",
+        "bio": "Involve on wonder stop. Now begin line wonder voice seat more design. Near son music."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
