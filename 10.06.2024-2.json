@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Morrow",
+    "age": 51,
+    "address": {
+        "street": "Dustin Manor",
+        "city": "Port Christy",
+        "state": "Tennessee",
+        "zip": "45155"
+    },
+    "contact": {
+        "phone": "+1-675-564-1481x507",
+        "servicePhone": "800578512"
+    },
+    "birthday": "1974-17-01",
+    "ip": "22.217.143.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Top second person center amount. Send lead energy hot task half.\nMajor like know capital. Possible much huge their ask.",
+        "bio": "Over cell better law Mrs student three each. Modern tough reveal end look program field leave. His rest as everybody participant this myself."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
