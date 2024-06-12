@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Guerra",
+    "age": 78,
+    "address": {
+        "street": "Lori Ports",
+        "city": "Port Angela",
+        "state": "South Dakota",
+        "zip": "07619"
+    },
+    "contact": {
+        "phone": "(349)865-5686",
+        "servicePhone": "800820528"
+    },
+    "birthday": "1947-14-04",
+    "ip": "173.23.185.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Benefit growth real near movement real. Magazine whether coach listen PM red whom. Senior current their suffer century. Conference foreign with pass foreign clearly mind adult.",
+        "bio": "Free interview skin design everybody very. Piece tend garden team art animal. Debate inside each happy."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
