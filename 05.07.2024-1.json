@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Ramirez",
+    "age": 39,
+    "address": {
+        "street": "Jennifer Mountain",
+        "city": "Rowechester",
+        "state": "Kentucky",
+        "zip": "38942"
+    },
+    "contact": {
+        "phone": "001-430-850-6374x5427",
+        "servicePhone": "800155963"
+    },
+    "birthday": "1986-23-02",
+    "ip": "51.75.182.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Carry manage stand story quality. Young dog save throw control.\nRecord tough factor surface even buy see.",
+        "bio": "Third million bed dream thousand whatever hot. Bed challenge single development.\nOperation beat campaign matter."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
