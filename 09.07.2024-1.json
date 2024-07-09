@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Parker",
+    "age": 5,
+    "address": {
+        "street": "Cindy Mission",
+        "city": "Carmenview",
+        "state": "South Carolina",
+        "zip": "58513"
+    },
+    "contact": {
+        "phone": "685-303-0665x81172",
+        "servicePhone": "800917483"
+    },
+    "birthday": "2020-07-11",
+    "ip": "115.213.111.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound bag sometimes finish key.\nChoice it cause attorney able. Within next people Republican. High rule notice father plan stage so TV.",
+        "bio": "Crime employee with plant well white.\nIdentify certainly step music. Whom few strong southern.\nHigh foreign again everything put until. Budget ball town tree move act past industry."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
