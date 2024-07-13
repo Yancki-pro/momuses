@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Carroll",
+    "age": 66,
+    "address": {
+        "street": "Melissa Plaza",
+        "city": "Bowenchester",
+        "state": "Illinois",
+        "zip": "39484"
+    },
+    "contact": {
+        "phone": "681-331-0429x13794",
+        "servicePhone": "800331970"
+    },
+    "birthday": "1959-07-03",
+    "ip": "221.242.64.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Resource part discuss. Wear yes two several western. Trouble wall trip skill debate maybe as.\nAnd natural thing include. Suffer sense young.",
+        "bio": "Health plan positive heavy for ability write western. Choose scene radio discuss full.\nYear hour hit against win organization. Color seem history. Board data either ground agency."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
