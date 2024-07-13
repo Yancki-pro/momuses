@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Sanchez",
+    "age": 11,
+    "address": {
+        "street": "Morris Roads",
+        "city": "Gibsonmouth",
+        "state": "Kansas",
+        "zip": "94726"
+    },
+    "contact": {
+        "phone": "(717)963-3045x33630",
+        "servicePhone": "800684252"
+    },
+    "birthday": "2014-01-09",
+    "ip": "187.95.156.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Event worker certainly opportunity student share. Especially team prove nearly answer media group.\nHour Democrat similar five everyone size. Perform risk political might civil cut.",
+        "bio": "Vote player company. Physical pay defense special member when. Alone whether ahead free nor improve matter. System program between end."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
