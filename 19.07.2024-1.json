@@ -1,0 +1,25 @@
+{
+    "name": "Paul Ramos",
+    "age": 74,
+    "address": {
+        "street": "Ricky Manors",
+        "city": "Emilyfurt",
+        "state": "Indiana",
+        "zip": "35992"
+    },
+    "contact": {
+        "phone": "638-671-7810x134",
+        "servicePhone": "800659544"
+    },
+    "birthday": "1951-20-01",
+    "ip": "71.147.100.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow position course laugh green sign reality. Recently see feeling billion.",
+        "bio": "Home too cause account why sister option. Enjoy show after hard."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
