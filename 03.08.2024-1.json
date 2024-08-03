@@ -1,0 +1,25 @@
+{
+    "name": "Scott Jones",
+    "age": 2,
+    "address": {
+        "street": "Hunter Ville",
+        "city": "South Catherineton",
+        "state": "Arkansas",
+        "zip": "95481"
+    },
+    "contact": {
+        "phone": "+1-529-230-1553x66015",
+        "servicePhone": "800675157"
+    },
+    "birthday": "2023-24-05",
+    "ip": "186.143.102.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Need change great financial vote range future. Matter figure see every over home. It form beat tend inside pretty arrive.",
+        "bio": "Public there better we nothing. Participant information professional various note spend mouth education. Move eat single significant perhaps popular."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
