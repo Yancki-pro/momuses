@@ -1,0 +1,25 @@
+{
+    "name": "Cristian Montes",
+    "age": 85,
+    "address": {
+        "street": "Russell Route",
+        "city": "West Jose",
+        "state": "Connecticut",
+        "zip": "08545"
+    },
+    "contact": {
+        "phone": "(389)684-5541",
+        "servicePhone": "800456905"
+    },
+    "birthday": "1940-03-04",
+    "ip": "75.162.65.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Visit drive opportunity recently smile. Worker hospital away senior feel enter experience. Citizen many according democratic receive.",
+        "bio": "Effect offer summer. Table culture special late.\nGoal various leg fight himself piece. Step law PM dark own. Month during until despite.\nTell firm high you system. Join mean see. Quite moment figure."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
