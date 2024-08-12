@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Young",
+    "age": 39,
+    "address": {
+        "street": "Chase Groves",
+        "city": "Mayoland",
+        "state": "Nevada",
+        "zip": "48031"
+    },
+    "contact": {
+        "phone": "(798)536-2915x0100",
+        "servicePhone": "800766388"
+    },
+    "birthday": "1986-15-09",
+    "ip": "190.28.40.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Week level ability. Customer join apply look.\nTough per read movement budget figure. Hold nor prepare organization bank. Play decide option song manager.",
+        "bio": "Thought performance answer country after can base high. Outside modern quite. Could test us technology response give defense. Exist risk movie star every economic."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
