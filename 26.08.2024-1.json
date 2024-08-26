@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Hall",
+    "age": 108,
+    "address": {
+        "street": "Berg Common",
+        "city": "East Brianna",
+        "state": "Indiana",
+        "zip": "29835"
+    },
+    "contact": {
+        "phone": "5942916693",
+        "servicePhone": "800043031"
+    },
+    "birthday": "1917-14-09",
+    "ip": "116.70.170.181",
+    "foo": "bar",
+    "profile": {
+        "about": "You task billion model same question responsibility explain. Charge claim second save power.\nDebate order sea case. Pretty memory reason fly.",
+        "bio": "Significant cover he wish. More girl college energy kind take effort."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
