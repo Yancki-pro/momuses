@@ -1,0 +1,25 @@
+{
+    "name": "Gloria Wheeler",
+    "age": 65,
+    "address": {
+        "street": "Arnold Harbors",
+        "city": "Brittanytown",
+        "state": "Wisconsin",
+        "zip": "69210"
+    },
+    "contact": {
+        "phone": "001-958-973-7209x80580",
+        "servicePhone": "800034172"
+    },
+    "birthday": "1960-16-07",
+    "ip": "148.99.39.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk still effort challenge political effect. Purpose condition majority develop night visit.\nThroughout whom join left thing. Surface enter social pull two. Popular need drive.",
+        "bio": "Baby wife reduce bad. Person mission opportunity.\nAnalysis threat summer station piece. Forward television may physical. Control goal large development."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
