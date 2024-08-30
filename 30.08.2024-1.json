@@ -1,0 +1,25 @@
+{
+    "name": "Henry Myers",
+    "age": 33,
+    "address": {
+        "street": "Justin Wells",
+        "city": "Port Cynthia",
+        "state": "West Virginia",
+        "zip": "53178"
+    },
+    "contact": {
+        "phone": "001-252-615-8092x2224",
+        "servicePhone": "800263479"
+    },
+    "birthday": "1992-11-03",
+    "ip": "74.184.28.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Save nice would shake offer region. Officer subject sure. Never goal home best.\nThese born start. Short truth me involve decade food brother information. Debate use despite them quite staff spend.",
+        "bio": "Five expert model measure. Present maintain those exactly gas land very.\nNearly argue individual by. Certainly lay seven possible measure key scene.\nWhen he conference."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
