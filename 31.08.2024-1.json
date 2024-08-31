@@ -1,0 +1,25 @@
+{
+    "name": "Victor Jenkins",
+    "age": 28,
+    "address": {
+        "street": "Smith Station",
+        "city": "Daniellestad",
+        "state": "Georgia",
+        "zip": "03757"
+    },
+    "contact": {
+        "phone": "753-842-9859x66853",
+        "servicePhone": "800766481"
+    },
+    "birthday": "1997-14-01",
+    "ip": "61.112.220.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Affect marriage machine boy mind high detail. Art break trouble minute. Although hand throw Mr account beautiful.\nDebate particularly alone security music enter place.",
+        "bio": "Recently wife floor artist way would. Purpose long as do film can.\nBoth history inside candidate manage find. Whose never nor. Provide rate kid close attorney water."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
