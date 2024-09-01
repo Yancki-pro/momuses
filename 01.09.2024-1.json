@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Smith",
+    "age": 60,
+    "address": {
+        "street": "Sanders Spurs",
+        "city": "Edwardborough",
+        "state": "Georgia",
+        "zip": "72600"
+    },
+    "contact": {
+        "phone": "460.606.9687x8176",
+        "servicePhone": "800177860"
+    },
+    "birthday": "1965-06-05",
+    "ip": "107.171.199.12",
+    "foo": "bar",
+    "profile": {
+        "about": "My mouth party team. Those campaign similar attorney yet attack. Family few theory guy fund.\nConsider marriage win window although. Mr once always fast air where benefit.",
+        "bio": "Blue mention together. Any important career specific summer.\nTreatment church side add employee material. Cause discuss system question sort rule. Interview hope spring their."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
