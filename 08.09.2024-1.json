@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Rubio",
+    "age": 55,
+    "address": {
+        "street": "Sharon Port",
+        "city": "Kimberlytown",
+        "state": "North Dakota",
+        "zip": "44103"
+    },
+    "contact": {
+        "phone": "(510)613-8563x1346",
+        "servicePhone": "800755463"
+    },
+    "birthday": "1970-04-05",
+    "ip": "100.219.220.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Stay yet particularly cup ball weight your through. American hot natural responsibility admit.\nDuring not administration husband. Allow do increase most.",
+        "bio": "Realize know often perhaps whom across seven. Friend successful director summer remember us recently. Decide employee above true.\nWhere pull say nature."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
