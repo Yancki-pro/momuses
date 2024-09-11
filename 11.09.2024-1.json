@@ -1,0 +1,25 @@
+{
+    "name": "Christine Cox",
+    "age": 4,
+    "address": {
+        "street": "Angela Avenue",
+        "city": "North Gary",
+        "state": "Indiana",
+        "zip": "55915"
+    },
+    "contact": {
+        "phone": "(660)748-1792x756",
+        "servicePhone": "800453537"
+    },
+    "birthday": "2021-28-07",
+    "ip": "219.57.169.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Half food issue project. Tax shake keep rest war smile. Hand know difficult good glass site law move.\nHow trade take. Manager cut return call economic. Tend short anyone our lawyer Mr kitchen.",
+        "bio": "Peace thank fall. Point event parent show share system nation.\nLess conference nation tonight money price. World team agreement five. Professional radio rock model."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
