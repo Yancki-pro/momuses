@@ -1,0 +1,25 @@
+{
+    "name": "Laura Vargas",
+    "age": 63,
+    "address": {
+        "street": "Smith Roads",
+        "city": "Heatherhaven",
+        "state": "Arkansas",
+        "zip": "12185"
+    },
+    "contact": {
+        "phone": "+1-481-701-6109x2596",
+        "servicePhone": "800792542"
+    },
+    "birthday": "1962-26-09",
+    "ip": "75.43.241.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Two land should own either trouble career continue. Within wind building chair day attention list action.\nCamera Republican activity again work. Energy cold until risk success its her out.",
+        "bio": "Prepare start player one head. View management there crime per election left strong. Stage argue traditional nation."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
