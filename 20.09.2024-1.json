@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Martin",
+    "age": 25,
+    "address": {
+        "street": "Terrell Ville",
+        "city": "West Judithborough",
+        "state": "Oregon",
+        "zip": "15037"
+    },
+    "contact": {
+        "phone": "880.950.7010",
+        "servicePhone": "800327139"
+    },
+    "birthday": "2000-03-07",
+    "ip": "108.175.52.107",
+    "foo": "bar",
+    "profile": {
+        "about": "On standard case but cup sister. Administration employee never second. Girl behavior fly happen.\nCause air director line. Impact necessary thus since.",
+        "bio": "Audience none executive leave. Clearly ten new.\nBorn partner us during compare. Test tax American people end drug people. Edge man address catch short my entire."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
