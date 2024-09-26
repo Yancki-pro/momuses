@@ -1,0 +1,25 @@
+{
+    "name": "Joan Fernandez",
+    "age": 90,
+    "address": {
+        "street": "Harris Flat",
+        "city": "Waltonshire",
+        "state": "Michigan",
+        "zip": "12491"
+    },
+    "contact": {
+        "phone": "388-719-1570",
+        "servicePhone": "800974582"
+    },
+    "birthday": "1935-10-09",
+    "ip": "125.229.181.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve citizen tend set.\nStrong fact pay star possible summer safe thus.\nHowever how push peace involve. Travel address miss short.\nWater himself rest culture let base quite that.",
+        "bio": "Production model face talk right set experience. Fish parent big point indeed resource event.\nMarket method where left PM contain determine. Research result remember sound really policy."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
