@@ -1,0 +1,25 @@
+{
+    "name": "Leslie Nguyen",
+    "age": 74,
+    "address": {
+        "street": "Jeffery Glen",
+        "city": "New Laurie",
+        "state": "North Dakota",
+        "zip": "69822"
+    },
+    "contact": {
+        "phone": "+1-727-443-6502x22463",
+        "servicePhone": "800643037"
+    },
+    "birthday": "1951-02-08",
+    "ip": "205.167.46.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Themselves continue serve writer report fish. Professor after money chair character. Next same front research agency daughter.\nStar power whom figure. Ahead run or plant.",
+        "bio": "Site southern role none. Recognize want should after not. Drug nor nor Mrs try during.\nRole treat story themselves risk. Cause free when even bill. Along clear Mr."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
