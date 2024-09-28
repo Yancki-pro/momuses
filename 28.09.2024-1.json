@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Sanders",
+    "age": 103,
+    "address": {
+        "street": "Cristian Green",
+        "city": "Nancyhaven",
+        "state": "New Hampshire",
+        "zip": "20762"
+    },
+    "contact": {
+        "phone": "411-658-6890x720",
+        "servicePhone": "800578582"
+    },
+    "birthday": "1922-02-09",
+    "ip": "19.254.153.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability view ever center better suggest. Personal because others bag state bit hour. Record part design writer skin cell.",
+        "bio": "Job establish enter. Score real own between.\nSouthern about food along near. Stay age little present page."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
