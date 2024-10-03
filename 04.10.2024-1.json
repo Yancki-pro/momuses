@@ -1,0 +1,25 @@
+{
+    "name": "Amber Holland",
+    "age": 52,
+    "address": {
+        "street": "Stanley Glen",
+        "city": "Lopezside",
+        "state": "Georgia",
+        "zip": "24673"
+    },
+    "contact": {
+        "phone": "8678281963",
+        "servicePhone": "800816488"
+    },
+    "birthday": "1973-20-06",
+    "ip": "79.159.37.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Security affect usually begin experience of. Ok southern similar candidate kid window. Campaign war among land.",
+        "bio": "Environmental drop responsibility push every speak. Sometimes suffer thank magazine will experience. General son return foreign really.\nIssue foot ball treatment. Theory paper tend away often its."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
