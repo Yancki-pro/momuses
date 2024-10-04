@@ -1,0 +1,25 @@
+{
+    "name": "Yesenia Bender",
+    "age": 69,
+    "address": {
+        "street": "Tanya Groves",
+        "city": "New Andrewview",
+        "state": "Georgia",
+        "zip": "74022"
+    },
+    "contact": {
+        "phone": "(580)527-6435",
+        "servicePhone": "800241024"
+    },
+    "birthday": "1956-21-04",
+    "ip": "92.136.231.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Include soldier tough note view hot ever whole. Adult side old middle. After choice some this store suggest hand hope.\nRemember provide feeling great. Consider without hotel tree affect his.",
+        "bio": "Heavy include huge nation hour during. Image base price training anyone. Analysis must use."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
