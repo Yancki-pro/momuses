@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Tapia",
+    "age": 98,
+    "address": {
+        "street": "Smith Wells",
+        "city": "Davisshire",
+        "state": "Louisiana",
+        "zip": "14414"
+    },
+    "contact": {
+        "phone": "+1-644-310-5695x2883",
+        "servicePhone": "800739185"
+    },
+    "birthday": "1927-28-02",
+    "ip": "162.84.26.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Start white future join this require. Structure quality morning friend with. News hour audience put job.\nRepresent my word technology. However affect its a idea wait.",
+        "bio": "Between east task maintain move think. Couple two reason big account recently. She act poor common."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
