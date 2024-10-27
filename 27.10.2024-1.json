@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Gonzalez",
+    "age": 43,
+    "address": {
+        "street": "Schmitt Trail",
+        "city": "East Jonathan",
+        "state": "Texas",
+        "zip": "10283"
+    },
+    "contact": {
+        "phone": "+1-598-318-3852x6142",
+        "servicePhone": "800969768"
+    },
+    "birthday": "1982-04-12",
+    "ip": "46.105.46.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Expect sell blood lead there in opportunity.\nVery after maintain certainly. Heart camera market meeting.\nWrite heart color field. Meet dinner course sing president. According paper receive ask.",
+        "bio": "Forward budget low general. Represent important sound what avoid young.\nDevelop lawyer lot somebody. Space consider phone."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
