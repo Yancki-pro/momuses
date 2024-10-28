@@ -1,0 +1,25 @@
+{
+    "name": "Calvin Fowler",
+    "age": 6,
+    "address": {
+        "street": "Krista Groves",
+        "city": "Cameronton",
+        "state": "Arkansas",
+        "zip": "47834"
+    },
+    "contact": {
+        "phone": "319.556.9667",
+        "servicePhone": "800554732"
+    },
+    "birthday": "2019-30-09",
+    "ip": "15.20.124.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Push he act need. Eat kid from drive operation.\nDrive perform miss serve. Local never firm sell subject say soldier wide. Free stuff than market big fill.",
+        "bio": "We through collection recognize. Really south raise lay blood. Any strategy here car my."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
