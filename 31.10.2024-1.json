@@ -1,0 +1,25 @@
+{
+    "name": "Christian Crawford",
+    "age": 74,
+    "address": {
+        "street": "Curtis Forges",
+        "city": "New Ashley",
+        "state": "Minnesota",
+        "zip": "00711"
+    },
+    "contact": {
+        "phone": "826.412.8147x0986",
+        "servicePhone": "800202880"
+    },
+    "birthday": "1951-31-01",
+    "ip": "25.132.172.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Responsibility unit exactly history stay. Sign themselves scientist kind political.",
+        "bio": "Operation imagine recent ahead. Four eye mother could billion push. Mrs central able history."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
