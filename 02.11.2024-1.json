@@ -1,0 +1,25 @@
+{
+    "name": "Gabriel Walton",
+    "age": 36,
+    "address": {
+        "street": "Romero Springs",
+        "city": "Natashaburgh",
+        "state": "Rhode Island",
+        "zip": "15541"
+    },
+    "contact": {
+        "phone": "6496640120",
+        "servicePhone": "800578688"
+    },
+    "birthday": "1989-16-03",
+    "ip": "2.98.243.104",
+    "foo": "bar",
+    "profile": {
+        "about": "High young western purpose spend. Draw education clear article policy group. Mind season available film baby budget month dream.",
+        "bio": "Total wrong artist. Social popular party win. No number establish project.\nPrepare paper adult health value city hour. Involve TV special responsibility word training product perhaps."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
