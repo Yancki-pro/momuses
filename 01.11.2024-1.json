@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Ewing",
+    "age": 79,
+    "address": {
+        "street": "Greene Isle",
+        "city": "Lake Deniseview",
+        "state": "Kansas",
+        "zip": "14529"
+    },
+    "contact": {
+        "phone": "+1-212-446-4654x759",
+        "servicePhone": "800482626"
+    },
+    "birthday": "1946-04-03",
+    "ip": "151.140.175.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh senior get radio. National deep a range. Cause provide upon hard. Hope lawyer analysis citizen.",
+        "bio": "Accept too on. Situation knowledge enter. Voice significant employee mean.\nTwo something action peace lose edge range. They travel low sometimes attention cost. Truth indeed couple too agency effect."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
