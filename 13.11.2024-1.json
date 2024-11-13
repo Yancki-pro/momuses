@@ -1,0 +1,25 @@
+{
+    "name": "Alexandra Price",
+    "age": 18,
+    "address": {
+        "street": "Shannon Estate",
+        "city": "Kathleenton",
+        "state": "Georgia",
+        "zip": "04992"
+    },
+    "contact": {
+        "phone": "(518)241-0706x2501",
+        "servicePhone": "800622744"
+    },
+    "birthday": "2007-07-04",
+    "ip": "56.131.142.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Method life police radio expert former society. Inside magazine answer law reality rich century organization. Detail room be.",
+        "bio": "State star near most mission discussion here. Develop cold quite.\nUse responsibility author type recent less book bar. Leave minute skin seek tree."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
