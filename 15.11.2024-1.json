@@ -1,0 +1,25 @@
+{
+    "name": "Vanessa Cruz",
+    "age": 8,
+    "address": {
+        "street": "Mason Shoal",
+        "city": "Robertmouth",
+        "state": "Maine",
+        "zip": "12946"
+    },
+    "contact": {
+        "phone": "001-257-486-1242x0837",
+        "servicePhone": "800882292"
+    },
+    "birthday": "2017-06-11",
+    "ip": "54.124.230.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Recent term safe. Interesting outside life material budget fall budget middle. Form process example growth because special course.",
+        "bio": "Impact important site meet how understand stop.\nRecent against black. Same might middle hospital team.\nRest forward law wall set however citizen. Fight air attorney today approach."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
