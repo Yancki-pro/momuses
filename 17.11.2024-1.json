@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Craig",
+    "age": 95,
+    "address": {
+        "street": "Dale Green",
+        "city": "Francisport",
+        "state": "Nebraska",
+        "zip": "51567"
+    },
+    "contact": {
+        "phone": "(563)534-7546x3125",
+        "servicePhone": "800941480"
+    },
+    "birthday": "1930-20-07",
+    "ip": "205.229.138.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Data pass shoulder suffer. Condition east establish heavy night tough. Develop political sort notice bank.\nDetail give area window who help. Event as significant.",
+        "bio": "Future game service politics agree man. Glass few industry style. Why themselves compare enough.\nEnter push response practice. For mother TV century. Culture television start."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
