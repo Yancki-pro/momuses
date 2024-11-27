@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Benjamin",
+    "age": 8,
+    "address": {
+        "street": "Day Dale",
+        "city": "Martinezhaven",
+        "state": "Massachusetts",
+        "zip": "67623"
+    },
+    "contact": {
+        "phone": "+1-738-683-5439x45553",
+        "servicePhone": "800143541"
+    },
+    "birthday": "2017-15-07",
+    "ip": "218.175.41.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Method reach attack reason near let. Ago near Congress store commercial.\nCentury all water out report reduce. Especially north rather let develop social I. Civil administration catch seem be sit.",
+        "bio": "Remember myself for none sort. Century various record eat field foot land.\nInterest business firm cut do real really thus. Trial there woman international."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
