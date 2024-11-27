@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Murphy",
+    "age": 40,
+    "address": {
+        "street": "Long Pine",
+        "city": "Scottborough",
+        "state": "Illinois",
+        "zip": "69640"
+    },
+    "contact": {
+        "phone": "001-265-600-5978x2448",
+        "servicePhone": "800986926"
+    },
+    "birthday": "1985-03-04",
+    "ip": "20.106.23.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge bill experience between compare. Write camera fill. Economic near sell herself whether simple fight.",
+        "bio": "Coach summer commercial game site close. Kitchen against red adult peace visit. Senior especially hot time."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
