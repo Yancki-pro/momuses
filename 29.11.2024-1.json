@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Garcia",
+    "age": 44,
+    "address": {
+        "street": "Rose Summit",
+        "city": "Chelseafurt",
+        "state": "South Carolina",
+        "zip": "41412"
+    },
+    "contact": {
+        "phone": "645.902.4326x95267",
+        "servicePhone": "800739297"
+    },
+    "birthday": "1981-15-05",
+    "ip": "133.216.47.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Break real lawyer cut former major machine. Identify about budget design trip power. Close see go they senior.",
+        "bio": "Couple light door. Manage big month spring.\nCertainly remember magazine break hospital. Start beat military center oil all. Difficult nature anyone.\nThought art fight day future but. Water try nice."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
