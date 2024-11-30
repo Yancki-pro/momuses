@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Miller",
+    "age": 68,
+    "address": {
+        "street": "Jill Forge",
+        "city": "Port Josephside",
+        "state": "Delaware",
+        "zip": "26817"
+    },
+    "contact": {
+        "phone": "609.918.3691",
+        "servicePhone": "800843562"
+    },
+    "birthday": "1957-04-12",
+    "ip": "83.10.157.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Although friend play economy event current street. Defense summer many fall face action. Best perhaps civil attack.",
+        "bio": "Leg face reality cost agency positive condition. Prevent dark professional enough why. Focus now point may. Help ahead technology heart."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
