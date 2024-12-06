@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Russo",
+    "age": 94,
+    "address": {
+        "street": "Rachel Creek",
+        "city": "Tannerfort",
+        "state": "Arizona",
+        "zip": "91724"
+    },
+    "contact": {
+        "phone": "(384)881-3965x8137",
+        "servicePhone": "800594490"
+    },
+    "birthday": "1931-14-10",
+    "ip": "62.217.62.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Green stand check everybody. Hear break air kid. Not job story establish exactly simple.",
+        "bio": "A cause region party position first long. Attention good realize book. Girl it we to consumer.\nPick small weight everyone film. Moment computer team well. Explain million watch."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
