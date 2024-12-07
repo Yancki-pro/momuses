@@ -1,0 +1,25 @@
+{
+    "name": "Monica Williams",
+    "age": 10,
+    "address": {
+        "street": "Jeffrey Mount",
+        "city": "South Christinabury",
+        "state": "North Carolina",
+        "zip": "44537"
+    },
+    "contact": {
+        "phone": "6687123798",
+        "servicePhone": "800489444"
+    },
+    "birthday": "2015-08-02",
+    "ip": "190.245.236.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Another section throw question wind put. Above couple sister pull. Congress country practice miss value trip really.",
+        "bio": "Bill however poor method as. Age modern billion fish education yet view. These Congress possible interesting environmental require near."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
