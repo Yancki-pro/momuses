@@ -1,0 +1,25 @@
+{
+    "name": "Emily Black",
+    "age": 28,
+    "address": {
+        "street": "Molly Viaduct",
+        "city": "Lake John",
+        "state": "Georgia",
+        "zip": "57486"
+    },
+    "contact": {
+        "phone": "434.419.3344x699",
+        "servicePhone": "800818081"
+    },
+    "birthday": "1997-30-06",
+    "ip": "7.124.26.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Social pretty be ability. Watch affect major decide message. Me involve available Democrat agree.",
+        "bio": "Work voice land service into deep thousand. Quickly main head. Respond protect community. Effect late lawyer hold."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
