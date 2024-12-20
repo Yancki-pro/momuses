@@ -1,0 +1,25 @@
+{
+    "name": "Mark Villa",
+    "age": 71,
+    "address": {
+        "street": "Rebecca Expressway",
+        "city": "Kylechester",
+        "state": "New York",
+        "zip": "71813"
+    },
+    "contact": {
+        "phone": "398-942-1289",
+        "servicePhone": "800938953"
+    },
+    "birthday": "1954-24-05",
+    "ip": "173.75.224.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason forward everybody four among but toward. Him work daughter adult themselves hope.",
+        "bio": "Time work step quality commercial size none reason. Pressure step glass probably.\nAnswer cover job avoid. Take discussion today attorney."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
