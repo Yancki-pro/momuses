@@ -1,0 +1,25 @@
+{
+    "name": "Bianca Price",
+    "age": 59,
+    "address": {
+        "street": "Miller Unions",
+        "city": "Chrisland",
+        "state": "Maryland",
+        "zip": "16652"
+    },
+    "contact": {
+        "phone": "001-709-507-7203x2662",
+        "servicePhone": "800194140"
+    },
+    "birthday": "1966-03-11",
+    "ip": "208.24.49.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Deal dinner final support art air president. Campaign official tend similar thing decide value.",
+        "bio": "Great high lead this evidence into. Letter contain turn analysis long election TV. Suggest summer trouble charge wind charge."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
