@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Holloway",
+    "age": 104,
+    "address": {
+        "street": "Thomas Mall",
+        "city": "Lewisbury",
+        "state": "Pennsylvania",
+        "zip": "53635"
+    },
+    "contact": {
+        "phone": "+1-357-445-0508",
+        "servicePhone": "800824278"
+    },
+    "birthday": "1921-23-09",
+    "ip": "92.70.210.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Build interview parent old finally. Anything young by short lay seat. Worker that deal page garden.\nUntil rest follow benefit. None notice change sing four school car. Foreign challenge answer.",
+        "bio": "Court practice skin reason commercial democratic. Quite human key represent but short long.\nMuch others share for low until where bit.\nWithin apply threat newspaper above. Member parent among the."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
