@@ -1,0 +1,25 @@
+{
+    "name": "Scott Lambert",
+    "age": 112,
+    "address": {
+        "street": "Christopher Ville",
+        "city": "Elliottport",
+        "state": "Washington",
+        "zip": "81439"
+    },
+    "contact": {
+        "phone": "001-701-300-8336",
+        "servicePhone": "800408938"
+    },
+    "birthday": "1913-02-03",
+    "ip": "72.168.164.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Else wide couple local magazine.\nCard case issue game account. Threat same thank style door who.",
+        "bio": "Draw tend until attack moment score. No technology perhaps question stand cup force."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
