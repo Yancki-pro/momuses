@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Vincent Lawson DDS",
+    "age": 12,
+    "address": {
+        "street": "Julie Oval",
+        "city": "East Elizabethmouth",
+        "state": "Missouri",
+        "zip": "56440"
+    },
+    "contact": {
+        "phone": "366.443.9833",
+        "servicePhone": "800151255"
+    },
+    "birthday": "2013-19-08",
+    "ip": "16.143.47.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager simply call specific technology such hour. Policy mother behind serve ball. Similar smile identify information throughout force kitchen almost.",
+        "bio": "Spring begin she animal white billion which. Church rich table this mother. Create away agreement hair."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
