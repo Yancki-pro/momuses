@@ -1,0 +1,25 @@
+{
+    "name": "Robert Tran",
+    "age": 39,
+    "address": {
+        "street": "Smith Tunnel",
+        "city": "Jenniferberg",
+        "state": "Maine",
+        "zip": "95535"
+    },
+    "contact": {
+        "phone": "274.773.1357x818",
+        "servicePhone": "800947308"
+    },
+    "birthday": "1986-27-03",
+    "ip": "58.21.191.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular lot inside administration her step movement. Edge relationship vote poor way.\nUp popular baby sing wide return. Test current cup range part.",
+        "bio": "Discuss coach task sing war us pretty mention. Loss start around imagine understand easy camera. Million nice book rock page short."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
