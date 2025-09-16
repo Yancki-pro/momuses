@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Franklin",
+    "age": 47,
+    "address": {
+        "street": "Larson Mountains",
+        "city": "South Andreaview",
+        "state": "Pennsylvania",
+        "zip": "37398"
+    },
+    "contact": {
+        "phone": "984-284-5484x64596",
+        "servicePhone": "800857454"
+    },
+    "birthday": "1978-21-08",
+    "ip": "214.64.190.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal alone national win tough purpose compare off. Environmental whatever turn tend involve share.\nStep quite may security machine development close. Task reach possible eye pull lot.",
+        "bio": "Somebody book entire could official stage build every. Each practice suffer bring fish guy.\nGame forget follow him edge behavior available. Power international war somebody war hit sound."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
