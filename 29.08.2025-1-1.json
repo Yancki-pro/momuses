@@ -1,0 +1,25 @@
+{
+    "name": "Chelsea Williams",
+    "age": 60,
+    "address": {
+        "street": "Julie Club",
+        "city": "Robertston",
+        "state": "Oklahoma",
+        "zip": "90868"
+    },
+    "contact": {
+        "phone": "(344)710-1884",
+        "servicePhone": "800829543"
+    },
+    "birthday": "1965-30-01",
+    "ip": "67.193.92.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Occur consumer miss vote way full return. Imagine long career. Dark should here teacher above individual.",
+        "bio": "Evening general even call which reason executive. Free yeah stand affect even voice do of.\nWin it create public present professor. Blue benefit eight identify buy Congress four."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
