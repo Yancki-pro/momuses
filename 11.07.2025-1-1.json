@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Nelson",
+    "age": 60,
+    "address": {
+        "street": "Brooks Spur",
+        "city": "New Kimberlyshire",
+        "state": "New Mexico",
+        "zip": "75007"
+    },
+    "contact": {
+        "phone": "585-492-7429",
+        "servicePhone": "800925711"
+    },
+    "birthday": "1965-18-03",
+    "ip": "89.34.241.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Together college region local ball practice number. Wall big now identify sea rule second. Board activity capital reason small until behind quickly.",
+        "bio": "Each on believe beautiful public lot people series. Mother send campaign college. Accept sell agent only.\nAll moment around traditional better radio."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
