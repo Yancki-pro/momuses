@@ -1,0 +1,25 @@
+{
+    "name": "Todd Johns",
+    "age": 34,
+    "address": {
+        "street": "Edwards Corners",
+        "city": "Cherylmouth",
+        "state": "Pennsylvania",
+        "zip": "53788"
+    },
+    "contact": {
+        "phone": "658.808.5198",
+        "servicePhone": "800493509"
+    },
+    "birthday": "1991-02-07",
+    "ip": "215.27.181.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Expert pretty Congress. More senior including. Fact over responsibility away culture senior respond. Share ago him figure.",
+        "bio": "Ever explain responsibility act school system agency. Machine image recently see. Such share page write."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
