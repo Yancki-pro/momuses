@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Avery",
+    "age": 28,
+    "address": {
+        "street": "Johnston Mills",
+        "city": "Smallland",
+        "state": "Mississippi",
+        "zip": "96257"
+    },
+    "contact": {
+        "phone": "001-710-425-4315",
+        "servicePhone": "800067568"
+    },
+    "birthday": "1997-03-04",
+    "ip": "8.128.128.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget town century more under film what. Institution ability husband painting.",
+        "bio": "Else every pay general rich. Mrs attention local others positive remember note. Camera receive including all tell guy any. Read standard sell time.\nThere white field director parent behind expert."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

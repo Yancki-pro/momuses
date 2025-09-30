@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Floyd",
+    "age": 76,
+    "address": {
+        "street": "Haynes Bridge",
+        "city": "East Christopher",
+        "state": "Texas",
+        "zip": "34463"
+    },
+    "contact": {
+        "phone": "+1-552-632-9920x82860",
+        "servicePhone": "800511738"
+    },
+    "birthday": "1949-28-01",
+    "ip": "110.155.193.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Large event deal guess necessary power daughter. Unit treat accept. Concern kitchen kind.",
+        "bio": "Necessary analysis write nice magazine. School smile brother question figure door. But parent agent the stay at red."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}

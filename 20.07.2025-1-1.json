@@ -1,0 +1,25 @@
+{
+    "name": "John Hernandez",
+    "age": 109,
+    "address": {
+        "street": "Joseph Throughway",
+        "city": "West Patricia",
+        "state": "Georgia",
+        "zip": "86187"
+    },
+    "contact": {
+        "phone": "526.564.5927",
+        "servicePhone": "800477444"
+    },
+    "birthday": "1916-22-07",
+    "ip": "197.181.59.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Successful bill best add reason. Someone degree man bring serious lead.\nFar occur media us trade whole. Effect already stop make consumer. Thing per speak fine box others democratic.",
+        "bio": "Point five box something past go. Into around score idea that.\nPersonal traditional price author team budget book share. Agree reveal will candidate among."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
