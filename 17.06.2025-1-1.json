@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Irwin",
+    "age": 51,
+    "address": {
+        "street": "Crosby Crossing",
+        "city": "East Kristastad",
+        "state": "California",
+        "zip": "15006"
+    },
+    "contact": {
+        "phone": "6849482527",
+        "servicePhone": "800786391"
+    },
+    "birthday": "1974-09-07",
+    "ip": "142.203.115.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical us still bar program near remain. Game race occur product. Skin shake short.\nBehavior interesting improve TV table. Lead necessary set government stock.",
+        "bio": "Show they run light soldier until rich understand.\nSix conference parent drive author wonder institution enjoy. Bring responsibility everybody."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}

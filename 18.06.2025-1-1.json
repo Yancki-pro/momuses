@@ -1,0 +1,25 @@
+{
+    "name": "Dr. James Murray",
+    "age": 81,
+    "address": {
+        "street": "Nicholas Circles",
+        "city": "Williamstown",
+        "state": "Idaho",
+        "zip": "60585"
+    },
+    "contact": {
+        "phone": "294.421.9003",
+        "servicePhone": "800640931"
+    },
+    "birthday": "1944-29-05",
+    "ip": "61.166.87.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Research maintain past couple safe may technology. Billion word fire even decide. While reason represent explain voice quickly wait. Sing ask yet when card I this total.",
+        "bio": "Keep what become. Thus fast office start claim guess doctor.\nAlready site among and. Right already draw space you third management. Wall director success world save station wish."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
