@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Peterson",
+    "age": 103,
+    "address": {
+        "street": "Ryan Green",
+        "city": "Alexisberg",
+        "state": "Massachusetts",
+        "zip": "29346"
+    },
+    "contact": {
+        "phone": "(443)424-5377x984",
+        "servicePhone": "800913111"
+    },
+    "birthday": "1922-03-12",
+    "ip": "163.156.121.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Low us offer enjoy name. Position enter put talk majority. Tonight try apply ahead exactly.\nAlready safe either do your. Group beyond wait future allow similar.",
+        "bio": "Member throughout spring yes. Suffer certainly budget list too tough simply. Off since girl represent reduce yard."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Jones",
+    "age": 95,
+    "address": {
+        "street": "Walker Place",
+        "city": "Sierramouth",
+        "state": "Utah",
+        "zip": "90456"
+    },
+    "contact": {
+        "phone": "(600)524-7588x398",
+        "servicePhone": "800799436"
+    },
+    "birthday": "1930-08-01",
+    "ip": "186.158.133.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate prepare board sister probably agreement close. Among son increase likely.",
+        "bio": "Game leader know admit become.\nSpeech south military level analysis. Open relationship summer president himself piece."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
