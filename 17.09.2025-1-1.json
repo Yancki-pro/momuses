@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Flynn",
+    "age": 33,
+    "address": {
+        "street": "Ashley Extension",
+        "city": "Ashleefort",
+        "state": "Virginia",
+        "zip": "91157"
+    },
+    "contact": {
+        "phone": "+1-444-807-7630x689",
+        "servicePhone": "800592289"
+    },
+    "birthday": "1992-14-11",
+    "ip": "90.210.196.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure behavior operation across point child. Environmental office southern whom son very college. Congress break imagine article radio letter in.",
+        "bio": "Natural as result bar different gun. Himself discuss since benefit head describe go. They establish agree as.\nSong environmental effort sit. Suffer follow two ten."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}

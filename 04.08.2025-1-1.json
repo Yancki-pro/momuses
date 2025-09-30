@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Anderson",
+    "age": 91,
+    "address": {
+        "street": "Delgado Gardens",
+        "city": "Port Shawnburgh",
+        "state": "Rhode Island",
+        "zip": "28056"
+    },
+    "contact": {
+        "phone": "001-551-405-7935x910",
+        "servicePhone": "800943458"
+    },
+    "birthday": "1934-29-03",
+    "ip": "63.20.218.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Admit court treat certain. Break suggest between station college.\nKind instead bed paper. Term tend her skill also around.\nOffer enjoy than field. Bad than year.",
+        "bio": "Woman enjoy drive again worry least but. Direction doctor represent fish stage bad significant.\nDespite difficult thousand huge whole art toward turn."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}

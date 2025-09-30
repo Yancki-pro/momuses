@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Wall",
+    "age": 65,
+    "address": {
+        "street": "Angela Lodge",
+        "city": "Selenaview",
+        "state": "Arizona",
+        "zip": "69242"
+    },
+    "contact": {
+        "phone": "565-865-7007x935",
+        "servicePhone": "800912628"
+    },
+    "birthday": "1960-01-10",
+    "ip": "180.194.229.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband group admit reach industry develop. War writer person here most imagine. Involve somebody human modern threat successful plant office.",
+        "bio": "Analysis example policy figure lay. Ability play give whatever health relationship."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}

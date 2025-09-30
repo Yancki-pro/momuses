@@ -1,0 +1,25 @@
+{
+    "name": "Christina Perry",
+    "age": 4,
+    "address": {
+        "street": "Patel Crossing",
+        "city": "New Sherrychester",
+        "state": "Tennessee",
+        "zip": "26286"
+    },
+    "contact": {
+        "phone": "649.705.5555x64372",
+        "servicePhone": "800286159"
+    },
+    "birthday": "2021-19-11",
+    "ip": "174.103.201.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Section establish himself. Which anyone system today. Enter hear consumer pay large skin.",
+        "bio": "Bed less record who pass every. Throughout white traditional people indeed TV heart. Every now all fact summer more.\nOver up hotel because. Little air think continue. Church model nor test."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
