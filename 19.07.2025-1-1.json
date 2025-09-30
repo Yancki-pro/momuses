@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Garcia",
+    "age": 62,
+    "address": {
+        "street": "Smith Drive",
+        "city": "Lake Davidville",
+        "state": "Mississippi",
+        "zip": "80080"
+    },
+    "contact": {
+        "phone": "2262096906",
+        "servicePhone": "800341191"
+    },
+    "birthday": "1963-20-09",
+    "ip": "143.145.240.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Theory support bag prove should. Our source full leader.\nMany save data because.\nDo listen recently by. Movement meet exist large.",
+        "bio": "Receive whole price argue."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}

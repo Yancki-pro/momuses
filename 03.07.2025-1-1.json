@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Chung",
+    "age": 76,
+    "address": {
+        "street": "Cruz Ranch",
+        "city": "New Jasonshire",
+        "state": "Michigan",
+        "zip": "44703"
+    },
+    "contact": {
+        "phone": "+1-835-355-0823",
+        "servicePhone": "800825415"
+    },
+    "birthday": "1949-11-07",
+    "ip": "179.161.204.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Police stay simple allow might community most. Take smile economy mention compare nor where. Though follow sit performance later at.\nBit step white those. Bank provide network book.",
+        "bio": "Number foot responsibility from. Cost quality ready break. Race front table ready let.\nWhom such gas data drop son actually professional. Table assume himself imagine measure size high."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}

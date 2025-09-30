@@ -1,0 +1,25 @@
+{
+    "name": "Jenny Morton",
+    "age": 71,
+    "address": {
+        "street": "Kimberly Road",
+        "city": "Port Carrieshire",
+        "state": "Delaware",
+        "zip": "13365"
+    },
+    "contact": {
+        "phone": "+1-317-298-7877",
+        "servicePhone": "800519495"
+    },
+    "birthday": "1954-29-10",
+    "ip": "23.87.200.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager possible offer fly. Political together perhaps number beat hotel.\nImportant produce name drop activity. For oil bed life pay project need.",
+        "bio": "Such your threat off particularly. West effect heavy born term. Good little name case people.\nThrough central could especially loss ready tax. Letter article main he candidate fund whose."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
