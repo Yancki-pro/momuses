@@ -1,0 +1,25 @@
+{
+    "name": "Michael Gomez",
+    "age": 9,
+    "address": {
+        "street": "John Bridge",
+        "city": "Meyersmouth",
+        "state": "Tennessee",
+        "zip": "74738"
+    },
+    "contact": {
+        "phone": "001-502-602-5275x53448",
+        "servicePhone": "800826079"
+    },
+    "birthday": "2016-18-11",
+    "ip": "175.32.24.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Month nature to prepare man off reduce. Account seven effort group hotel without. Attention million meet when yourself rise me.",
+        "bio": "Surface tax ball door scene evidence. Structure customer discussion form interest prevent foot."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
