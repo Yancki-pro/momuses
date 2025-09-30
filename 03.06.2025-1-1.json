@@ -1,0 +1,25 @@
+{
+    "name": "Jason Briggs",
+    "age": 84,
+    "address": {
+        "street": "Jones Plain",
+        "city": "Linport",
+        "state": "Nevada",
+        "zip": "67455"
+    },
+    "contact": {
+        "phone": "922.233.8160x3262",
+        "servicePhone": "800284607"
+    },
+    "birthday": "1941-18-12",
+    "ip": "79.104.133.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Protect get open listen memory edge particular. Anyone heavy company important former. Still American but experience.\nBank exactly ahead trial. Effort education south down view hundred.",
+        "bio": "Statement difference president example. Seek hour billion sister. Position instead organization admit situation who."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
