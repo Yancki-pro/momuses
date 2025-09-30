@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Mcdonald",
+    "age": 58,
+    "address": {
+        "street": "Hill Underpass",
+        "city": "Ortizchester",
+        "state": "New Mexico",
+        "zip": "43455"
+    },
+    "contact": {
+        "phone": "494-279-7511",
+        "servicePhone": "800361301"
+    },
+    "birthday": "1967-29-06",
+    "ip": "207.65.75.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Half stay beat then. Wind growth science then accept finally. Beautiful try set whether strong view road.\nCarry personal action whom big southern. Rate note occur ready board color herself.",
+        "bio": "Artist summer address exactly member contain. Information reduce want attention rise certainly. Important character style yeah."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
