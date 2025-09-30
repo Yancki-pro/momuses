@@ -1,0 +1,25 @@
+{
+    "name": "Sabrina Walter",
+    "age": 48,
+    "address": {
+        "street": "Kennedy Plains",
+        "city": "Lake Bethchester",
+        "state": "Mississippi",
+        "zip": "78412"
+    },
+    "contact": {
+        "phone": "7953401419",
+        "servicePhone": "800565786"
+    },
+    "birthday": "1977-05-03",
+    "ip": "46.111.231.238",
+    "foo": "bar",
+    "profile": {
+        "about": "War manager view. Watch during want majority center but federal. Student group high significant.",
+        "bio": "Produce ask player research attorney another American. Stay exactly ahead west.\nPartner child your kitchen. Most assume bring stuff."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}

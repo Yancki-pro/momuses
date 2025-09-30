@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Olson",
+    "age": 17,
+    "address": {
+        "street": "Marquez Tunnel",
+        "city": "Duarteton",
+        "state": "Missouri",
+        "zip": "37592"
+    },
+    "contact": {
+        "phone": "(258)922-7876",
+        "servicePhone": "800606231"
+    },
+    "birthday": "2008-01-01",
+    "ip": "100.55.157.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Agent modern her manage possible you certain. Sign candidate drive crime anyone enter prepare more. Consumer west our piece.",
+        "bio": "Right lawyer focus war. Sign nothing in different field deal. Statement present quite country myself.\nSeem time ok old get environment. Baby share happy statement."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}

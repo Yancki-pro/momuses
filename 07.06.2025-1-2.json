@@ -1,0 +1,25 @@
+{
+    "name": "Paula Young",
+    "age": 25,
+    "address": {
+        "street": "Stacy Route",
+        "city": "Port Jennifer",
+        "state": "Oklahoma",
+        "zip": "12317"
+    },
+    "contact": {
+        "phone": "592-812-3864x0629",
+        "servicePhone": "800322107"
+    },
+    "birthday": "2000-27-11",
+    "ip": "124.110.155.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive affect arm talk. Enough pressure ball. Lot relate return cover our treatment nor.",
+        "bio": "Cup road head carry. Industry attorney military. Maintain blue yet different.\nEvent name everybody country many. Around appear size close start."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
