@@ -1,0 +1,25 @@
+{
+    "name": "Colton Barnett",
+    "age": 2,
+    "address": {
+        "street": "Hunt Roads",
+        "city": "North Savannahmouth",
+        "state": "West Virginia",
+        "zip": "22776"
+    },
+    "contact": {
+        "phone": "676.924.3292x79900",
+        "servicePhone": "800580873"
+    },
+    "birthday": "2023-25-01",
+    "ip": "161.174.213.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Expert since start require order officer inside tend. Get least among in TV former. Radio maintain contain difficult field.",
+        "bio": "Road grow hotel now. Letter leader production fine woman. View present over condition process.\nEntire close real her large nation. Thousand each measure billion name strong stay real."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

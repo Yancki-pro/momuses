@@ -1,0 +1,25 @@
+{
+    "name": "Susan Morrison",
+    "age": 105,
+    "address": {
+        "street": "Nancy Ridge",
+        "city": "Patelmouth",
+        "state": "Oregon",
+        "zip": "63208"
+    },
+    "contact": {
+        "phone": "998-593-2961",
+        "servicePhone": "800260069"
+    },
+    "birthday": "1920-25-03",
+    "ip": "161.118.129.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Next occur action people. Security brother someone return each hundred sense soon.\nFederal read keep scientist tough her treat. Star technology know policy.",
+        "bio": "Customer event do miss join certain. Agent notice chair information."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
